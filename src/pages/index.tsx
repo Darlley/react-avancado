@@ -1,6 +1,6 @@
 import Head from 'next/head';
 
-export default function Home({ title = 'React Avançado' }) {
+function Home({ title = 'React Avançado' }) {
   return (
     <div className="container">
       <Head>
@@ -14,3 +14,5 @@ export default function Home({ title = 'React Avançado' }) {
     </div>
   );
 }
+
+export default Home;
