@@ -1,7 +1,9 @@
+import * as Style from './styles'
+
 export default function Main() {
   return (
-    <main>
+    <Style.Wrapper>
       <h1>React Avançado</h1>
-    </main>
+    </Style.Wrapper>
   )
 }
