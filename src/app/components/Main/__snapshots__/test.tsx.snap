@@ -2,7 +2,7 @@
 
 exports[`<Main /> should render the heading 1`] = `
 <main
-  class="sc-bdnyFh fphRhd"
+  class="sc-bdnyFh kdIumV"
 >
   <h1>
     React Avançado
